@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{CED91D5E-2DEA-4D1A-BFAF-724D2497B145}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="..\Pure\Pure.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="StoryGen.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Pure">
+        <MSBuild Projects="..\Pure\Pure.dproj"/>
+    </Target>
+    <Target Name="Pure:Clean">
+        <MSBuild Projects="..\Pure\Pure.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Pure:Make">
+        <MSBuild Projects="..\Pure\Pure.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="StoryGen">
+        <MSBuild Projects="StoryGen.dproj"/>
+    </Target>
+    <Target Name="StoryGen:Clean">
+        <MSBuild Projects="StoryGen.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="StoryGen:Make">
+        <MSBuild Projects="StoryGen.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Pure;StoryGen"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Pure:Clean;StoryGen:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Pure:Make;StoryGen:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

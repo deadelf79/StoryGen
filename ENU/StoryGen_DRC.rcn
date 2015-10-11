@@ -1,0 +1,2863 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Users\user\Documents\RAD Studio\Projects\Генератор сюжета\StoryGen.drc" source-language="ru-RU" target-language="en-US" datatype="cpp" tool="ETM v10.0" ts="C:\Users\user\Documents\RAD Studio\Projects\Генератор сюжета\StoryGen.drc">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">41755.9262962963</prop>
+        <prop prop-type="OrigDateTime">41755.9262962963</prop>
+        <prop prop-type="XlatDateTime">41755.8966203704</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">414</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="System_Win_ComConst_STooManyParams" resname="System_Win_ComConst_STooManyParams">
+        <source>"Dispatch methods do not support more than 64 parameters"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sTabFailClear" resname="Vcl_ComStrs_sTabFailClear">
+        <source>"Failed to clear tab control"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sTabFailDelete" resname="Vcl_ComStrs_sTabFailDelete">
+        <source>"Failed to delete tab at index %d"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sTabFailRetrieve" resname="Vcl_ComStrs_sTabFailRetrieve">
+        <source>"Failed to retrieve tab at index %d"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sTabFailGetObject" resname="Vcl_ComStrs_sTabFailGetObject">
+        <source>"Failed to get object at index %d"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sTabFailSet" resname="Vcl_ComStrs_sTabFailSet">
+        <source>"Failed to set tab \"%s\" at index %d"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sTabFailSetObject" resname="Vcl_ComStrs_sTabFailSetObject">
+        <source>"Failed to set object at index %d"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sTabMustBeMultiLine" resname="Vcl_ComStrs_sTabMustBeMultiLine">
+        <source>"MultiLine must be True when TabPosition is tpLeft or tpRight"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sInvalidOwner" resname="Vcl_ComStrs_sInvalidOwner">
+        <source>"Invalid owner"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sRichEditInsertError" resname="Vcl_ComStrs_sRichEditInsertError">
+        <source>"RichEdit line insertion error"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sRichEditLoadFail" resname="Vcl_ComStrs_sRichEditLoadFail">
+        <source>"Failed to Load Stream"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sRichEditSaveFail" resname="Vcl_ComStrs_sRichEditSaveFail">
+        <source>"Failed to Save Stream"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sPageIndexError" resname="Vcl_ComStrs_sPageIndexError">
+        <source>"%d is an invalid PageIndex value.  PageIndex must be between 0 and %d"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sInvalidComCtl32" resname="Vcl_ComStrs_sInvalidComCtl32">
+        <source>"This control requires version 4.70 or greater of COMCTL32.DLL"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleNotFound" resname="Vcl_Consts_SStyleNotFound">
+        <source>"Style '%s' not found"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleClassNotFound" resname="Vcl_Consts_SStyleClassNotFound">
+        <source>"Style class '%s' not found"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleInvalidHandle" resname="Vcl_Consts_SStyleInvalidHandle">
+        <source>"Invalid style handle"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleFormatError" resname="Vcl_Consts_SStyleFormatError">
+        <source>"Invalid style format"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleFileDescription" resname="Vcl_Consts_SStyleFileDescription">
+        <source>"VCL Style File"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleHookClassRegistered" resname="Vcl_Consts_SStyleHookClassRegistered">
+        <source>"Class '%s' is already registered for '%s'"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleHookClassNotRegistered" resname="Vcl_Consts_SStyleHookClassNotRegistered">
+        <source>"Class '%s' is not registered for '%s'"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleInvalidParameter" resname="Vcl_Consts_SStyleInvalidParameter">
+        <source>"%s parameter cannot be nil"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleHookClassNotFound" resname="Vcl_Consts_SStyleHookClassNotFound">
+        <source>"A StyleHook class has not been registered for %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleFeatureNotSupported" resname="Vcl_Consts_SStyleFeatureNotSupported">
+        <source>"Feature not supported by this style"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleNotRegistered" resname="Vcl_Consts_SStyleNotRegistered">
+        <source>"Style '%s' is not registered"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleUnregisterError" resname="Vcl_Consts_SStyleUnregisterError">
+        <source>"Cannot unregister the system style"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleNotRegisteredNoName" resname="Vcl_Consts_SStyleNotRegisteredNoName">
+        <source>"Style not registered"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_Win_ComConst_SOleError" resname="System_Win_ComConst_SOleError">
+        <source>"OLE error %.8x"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_Win_ComConst_SNoMethod" resname="System_Win_ComConst_SNoMethod">
+        <source>"Method '%s' not supported by automation object"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_Win_ComConst_SVarNotObject" resname="System_Win_ComConst_SVarNotObject">
+        <source>"Variant does not reference an automation object"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SANSIEncoding" resname="Vcl_Consts_SANSIEncoding">
+        <source>"ANSI"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SASCIIEncoding" resname="Vcl_Consts_SASCIIEncoding">
+        <source>"ASCII"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUnicodeEncoding" resname="Vcl_Consts_SUnicodeEncoding">
+        <source>"Unicode"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SBigEndianEncoding" resname="Vcl_Consts_SBigEndianEncoding">
+        <source>"Big Endian Unicode"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUTF8Encoding" resname="Vcl_Consts_SUTF8Encoding">
+        <source>"UTF-8"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUTF7Encoding" resname="Vcl_Consts_SUTF7Encoding">
+        <source>"UTF-7"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_STrayIconRemoveError" resname="Vcl_Consts_STrayIconRemoveError">
+        <source>"Cannot remove shell notification icon"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SPageControlNotSet" resname="Vcl_Consts_SPageControlNotSet">
+        <source>"PageControl must first be assigned"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SWindowsVistaRequired" resname="Vcl_Consts_SWindowsVistaRequired">
+        <source>"%s requires Windows Vista or later"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_STaskDlgButtonCaption" resname="Vcl_Consts_STaskDlgButtonCaption">
+        <source>"Button%d"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_STaskDlgRadioButtonCaption" resname="Vcl_Consts_STaskDlgRadioButtonCaption">
+        <source>"RadioButton%d"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidTaskDlgButtonCaption" resname="Vcl_Consts_SInvalidTaskDlgButtonCaption">
+        <source>"Caption cannot be empty"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleLoadError" resname="Vcl_Consts_SStyleLoadError">
+        <source>"Unable to load style '%s'"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleLoadErrors" resname="Vcl_Consts_SStyleLoadErrors">
+        <source>"Unable to load styles: %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleRegisterError" resname="Vcl_Consts_SStyleRegisterError">
+        <source>"Style '%s' already registered"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleClassRegisterError" resname="Vcl_Consts_SStyleClassRegisterError">
+        <source>"Style class '%s' already registered"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMoveNotAllowed" resname="Vcl_Consts_SMoveNotAllowed">
+        <source>"Item %s is not allowed to be moved"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMoreButtons" resname="Vcl_Consts_SMoreButtons">
+        <source>"More Buttons"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SExpand" resname="Vcl_Consts_SExpand">
+        <source>"Expand"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SErrorLoadingFile" resname="Vcl_Consts_SErrorLoadingFile">
+        <source>"Error loading previously saved settings file: %s\rWould you like to delete it?"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SNoName" resname="Vcl_Consts_SNoName">
+        <source>"(No Name)"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SAddRemoveButtons" resname="Vcl_Consts_SAddRemoveButtons">
+        <source>"&amp;Add or Remove Buttons"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SResetActionToolBar" resname="Vcl_Consts_SResetActionToolBar">
+        <source>"Reset Toolbar"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SCircularReferencesNotAllowed" resname="Vcl_Consts_SCircularReferencesNotAllowed">
+        <source>"Circular references not allowed"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SCannotHideActionBand" resname="Vcl_Consts_SCannotHideActionBand">
+        <source>"%s does not allow hiding"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SErrorSettingCount" resname="Vcl_Consts_SErrorSettingCount">
+        <source>"Error setting %s.Count"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SListBoxMustBeVirtual" resname="Vcl_Consts_SListBoxMustBeVirtual">
+        <source>"Listbox (%s) style must be virtual in order to set Count"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUnableToSaveSettings" resname="Vcl_Consts_SUnableToSaveSettings">
+        <source>"Unable to save settings"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SRestoreDefaultSchedule" resname="Vcl_Consts_SRestoreDefaultSchedule">
+        <source>"Would you like to reset to the default Priority Schedule?"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SNoGetItemEventHandler" resname="Vcl_Consts_SNoGetItemEventHandler">
+        <source>"No OnGetItem event handler assigned"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMissingActionBarStyleName" resname="Vcl_Consts_SMissingActionBarStyleName">
+        <source>"A style named %s has not been registered"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SActionBarStyleMissing" resname="Vcl_Consts_SActionBarStyleMissing">
+        <source>"No ActionBand style unit present in the uses clause.\rYour application must include either XPStyleActnCtrls, StdStyleActnCtrls or a third party ActionBand style unit in its uses clause"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDockZoneVersionConflict" resname="Vcl_Consts_SDockZoneVersionConflict">
+        <source>"Error loading dock zone from the stream. Expecting version %d, but found %d."</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SPromptArrayTooShort" resname="Vcl_Consts_SPromptArrayTooShort">
+        <source>"Length of value array must be &gt;= length of prompt array"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SPromptArrayEmpty" resname="Vcl_Consts_SPromptArrayEmpty">
+        <source>"Prompt array must not be empty"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUsername" resname="Vcl_Consts_SUsername">
+        <source>"&amp;Username"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SPassword" resname="Vcl_Consts_SPassword">
+        <source>"&amp;Password"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDomain" resname="Vcl_Consts_SDomain">
+        <source>"&amp;Domain"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SLogin" resname="Vcl_Consts_SLogin">
+        <source>"Login"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SKeyCaption" resname="Vcl_Consts_SKeyCaption">
+        <source>"Key"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SValueCaption" resname="Vcl_Consts_SValueCaption">
+        <source>"Value"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SKeyConflict" resname="Vcl_Consts_SKeyConflict">
+        <source>"A key with the name of \"%s\" already exists"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SKeyNotFound" resname="Vcl_Consts_SKeyNotFound">
+        <source>"Key \"%s\" not found"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SNoColumnMoving" resname="Vcl_Consts_SNoColumnMoving">
+        <source>"goColMoving is not a supported option"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SNoEqualsInKey" resname="Vcl_Consts_SNoEqualsInKey">
+        <source>"Key may not contain equals sign (\"=\")"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SAssignSubItemError" resname="Vcl_Consts_SAssignSubItemError">
+        <source>"Cannot assign a subitem to an actionbar when one of it's parent's is already assigned to an actionbar"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDeleteItemWithSubItems" resname="Vcl_Consts_SDeleteItemWithSubItems">
+        <source>"Item %s has subitems, delete anyway?"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDeleteNotAllowed" resname="Vcl_Consts_SDeleteNotAllowed">
+        <source>"You are not allowed to delete this item"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcAlt" resname="Vcl_Consts_SmkcAlt">
+        <source>"Alt+"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SOutOfRange" resname="Vcl_Consts_SOutOfRange">
+        <source>"Value must be between %d and %d"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDefaultFilter" resname="Vcl_Consts_SDefaultFilter">
+        <source>"All files (*.*)|*.*"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_sAllFilter" resname="Vcl_Consts_sAllFilter">
+        <source>"All"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInsertLineError" resname="Vcl_Consts_SInsertLineError">
+        <source>"Unable to insert a line"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidClipFmt" resname="Vcl_Consts_SInvalidClipFmt">
+        <source>"Invalid clipboard format"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SIconToClipboard" resname="Vcl_Consts_SIconToClipboard">
+        <source>"Clipboard does not support Icons"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SCannotOpenClipboard" resname="Vcl_Consts_SCannotOpenClipboard">
+        <source>"Cannot open clipboard: %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidMemoSize" resname="Vcl_Consts_SInvalidMemoSize">
+        <source>"Text exceeds memo capacity"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidPrinterOp" resname="Vcl_Consts_SInvalidPrinterOp">
+        <source>"Operation not supported on selected printer"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SNoDefaultPrinter" resname="Vcl_Consts_SNoDefaultPrinter">
+        <source>"There is no default printer currently selected"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDuplicateMenus" resname="Vcl_Consts_SDuplicateMenus">
+        <source>"Menu '%s' is already being used by another form"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDockedCtlNeedsName" resname="Vcl_Consts_SDockedCtlNeedsName">
+        <source>"Docked control must have a name"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDockTreeRemoveError" resname="Vcl_Consts_SDockTreeRemoveError">
+        <source>"Error removing control from dock tree"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDockZoneNotFound" resname="Vcl_Consts_SDockZoneNotFound">
+        <source>" - Dock zone not found"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDockZoneHasNoCtl" resname="Vcl_Consts_SDockZoneHasNoCtl">
+        <source>" - Dock zone has no control"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcTab" resname="Vcl_Consts_SmkcTab">
+        <source>"Tab"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcEsc" resname="Vcl_Consts_SmkcEsc">
+        <source>"Esc"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcEnter" resname="Vcl_Consts_SmkcEnter">
+        <source>"Enter"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcSpace" resname="Vcl_Consts_SmkcSpace">
+        <source>"Space"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcPgUp" resname="Vcl_Consts_SmkcPgUp">
+        <source>"PgUp"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcPgDn" resname="Vcl_Consts_SmkcPgDn">
+        <source>"PgDn"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcEnd" resname="Vcl_Consts_SmkcEnd">
+        <source>"End"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcHome" resname="Vcl_Consts_SmkcHome">
+        <source>"Home"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcLeft" resname="Vcl_Consts_SmkcLeft">
+        <source>"Left"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcUp" resname="Vcl_Consts_SmkcUp">
+        <source>"Up"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcRight" resname="Vcl_Consts_SmkcRight">
+        <source>"Right"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcDown" resname="Vcl_Consts_SmkcDown">
+        <source>"Down"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcIns" resname="Vcl_Consts_SmkcIns">
+        <source>"Ins"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcDel" resname="Vcl_Consts_SmkcDel">
+        <source>"Del"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcShift" resname="Vcl_Consts_SmkcShift">
+        <source>"Shift+"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcCtrl" resname="Vcl_Consts_SmkcCtrl">
+        <source>"Ctrl+"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgError" resname="Vcl_Consts_SMsgDlgError">
+        <source>"Error"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgInformation" resname="Vcl_Consts_SMsgDlgInformation">
+        <source>"Information"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgConfirm" resname="Vcl_Consts_SMsgDlgConfirm">
+        <source>"Confirm"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgYes" resname="Vcl_Consts_SMsgDlgYes">
+        <source>"&amp;Yes"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgNo" resname="Vcl_Consts_SMsgDlgNo">
+        <source>"&amp;No"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgOK" resname="Vcl_Consts_SMsgDlgOK">
+        <source>"OK"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgCancel" resname="Vcl_Consts_SMsgDlgCancel">
+        <source>"Cancel"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgHelp" resname="Vcl_Consts_SMsgDlgHelp">
+        <source>"&amp;Help"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgAbort" resname="Vcl_Consts_SMsgDlgAbort">
+        <source>"&amp;Abort"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgRetry" resname="Vcl_Consts_SMsgDlgRetry">
+        <source>"&amp;Retry"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgIgnore" resname="Vcl_Consts_SMsgDlgIgnore">
+        <source>"&amp;Ignore"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgAll" resname="Vcl_Consts_SMsgDlgAll">
+        <source>"&amp;All"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgNoToAll" resname="Vcl_Consts_SMsgDlgNoToAll">
+        <source>"N&amp;o to All"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgYesToAll" resname="Vcl_Consts_SMsgDlgYesToAll">
+        <source>"Yes to &amp;All"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgClose" resname="Vcl_Consts_SMsgDlgClose">
+        <source>"&amp;Close"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcBkSp" resname="Vcl_Consts_SmkcBkSp">
+        <source>"BkSp"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SAbortButton" resname="Vcl_Consts_SAbortButton">
+        <source>"Abort"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SAllButton" resname="Vcl_Consts_SAllButton">
+        <source>"&amp;All"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SCannotDragForm" resname="Vcl_Consts_SCannotDragForm">
+        <source>"Cannot drag a form"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SVMetafiles" resname="Vcl_Consts_SVMetafiles">
+        <source>"Metafiles"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SVEnhMetafiles" resname="Vcl_Consts_SVEnhMetafiles">
+        <source>"Enhanced Metafiles"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335648</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SVIcons" resname="Vcl_Consts_SVIcons">
+        <source>"Icons"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SVBitmaps" resname="Vcl_Consts_SVBitmaps">
+        <source>"Bitmaps"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SVTIFFImages" resname="Vcl_Consts_SVTIFFImages">
+        <source>"TIFF Images"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SGridTooLarge" resname="Vcl_Consts_SGridTooLarge">
+        <source>"Grid too large for operation"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_STooManyDeleted" resname="Vcl_Consts_STooManyDeleted">
+        <source>"Too many rows or columns deleted"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SIndexOutOfRange" resname="Vcl_Consts_SIndexOutOfRange">
+        <source>"Grid index out of range"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SFixedColTooBig" resname="Vcl_Consts_SFixedColTooBig">
+        <source>"Fixed column count must be less than column count"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SFixedRowTooBig" resname="Vcl_Consts_SFixedRowTooBig">
+        <source>"Fixed row count must be less than row count"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMaskErr" resname="Vcl_Consts_SMaskErr">
+        <source>"Invalid input value"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMaskEditErr" resname="Vcl_Consts_SMaskEditErr">
+        <source>"Invalid input value.  Use escape key to abandon changes"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMsgDlgWarning" resname="Vcl_Consts_SMsgDlgWarning">
+        <source>"Warning"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SPrinting" resname="Vcl_Consts_SPrinting">
+        <source>"Printing in progress"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SPrinterIndexError" resname="Vcl_Consts_SPrinterIndexError">
+        <source>"Printer index out of range"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidPrinter" resname="Vcl_Consts_SInvalidPrinter">
+        <source>"Printer selected is not valid"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDeviceOnPort" resname="Vcl_Consts_SDeviceOnPort">
+        <source>"%s on %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SGroupIndexTooLow" resname="Vcl_Consts_SGroupIndexTooLow">
+        <source>"GroupIndex cannot be less than a previous menu item's GroupIndex"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SNoMDIForm" resname="Vcl_Consts_SNoMDIForm">
+        <source>"Cannot create form. No MDI forms are currently active"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SImageCanvasNeedsBitmap" resname="Vcl_Consts_SImageCanvasNeedsBitmap">
+        <source>"Can only modify an image if it contains a bitmap"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SControlParentSetToSelf" resname="Vcl_Consts_SControlParentSetToSelf">
+        <source>"A control cannot have itself as its parent"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SOKButton" resname="Vcl_Consts_SOKButton">
+        <source>"OK"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SCancelButton" resname="Vcl_Consts_SCancelButton">
+        <source>"Cancel"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SYesButton" resname="Vcl_Consts_SYesButton">
+        <source>"&amp;Yes"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SNoButton" resname="Vcl_Consts_SNoButton">
+        <source>"&amp;No"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SHelpButton" resname="Vcl_Consts_SHelpButton">
+        <source>"&amp;Help"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SCloseButton" resname="Vcl_Consts_SCloseButton">
+        <source>"&amp;Close"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SIgnoreButton" resname="Vcl_Consts_SIgnoreButton">
+        <source>"&amp;Ignore"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SRetryButton" resname="Vcl_Consts_SRetryButton">
+        <source>"&amp;Retry"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335764</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SImageWriteFail" resname="Vcl_Consts_SImageWriteFail">
+        <source>"Failed to write ImageList data to stream"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SWindowDCError" resname="Vcl_Consts_SWindowDCError">
+        <source>"Error creating window device context"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SWindowClass" resname="Vcl_Consts_SWindowClass">
+        <source>"Error creating window class"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SCannotFocus" resname="Vcl_Consts_SCannotFocus">
+        <source>"Cannot focus a disabled or invisible window"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SParentRequired" resname="Vcl_Consts_SParentRequired">
+        <source>"Control '%s' has no parent window"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SParentGivenNotAParent" resname="Vcl_Consts_SParentGivenNotAParent">
+        <source>"Parent given is not a parent of '%s'"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMDIChildNotVisible" resname="Vcl_Consts_SMDIChildNotVisible">
+        <source>"Cannot hide an MDI Child Form"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SVisibleChanged" resname="Vcl_Consts_SVisibleChanged">
+        <source>"Cannot change Visible in OnShow or OnHide"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SCannotShowModal" resname="Vcl_Consts_SCannotShowModal">
+        <source>"Cannot make a visible window modal"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SScrollBarRange" resname="Vcl_Consts_SScrollBarRange">
+        <source>"Scrollbar property out of range"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SPropertyOutOfRange" resname="Vcl_Consts_SPropertyOutOfRange">
+        <source>"%s property out of range"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMenuIndexError" resname="Vcl_Consts_SMenuIndexError">
+        <source>"Menu index out of range"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMenuReinserted" resname="Vcl_Consts_SMenuReinserted">
+        <source>"Menu inserted twice"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMenuNotFound" resname="Vcl_Consts_SMenuNotFound">
+        <source>"Sub-menu is not in menu"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SNoTimers" resname="Vcl_Consts_SNoTimers">
+        <source>"Not enough timers available"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SNotPrinting" resname="Vcl_Consts_SNotPrinting">
+        <source>"Printer is not currently printing"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidMetafile" resname="Vcl_Consts_SInvalidMetafile">
+        <source>"Metafile is not valid"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidPixelFormat" resname="Vcl_Consts_SInvalidPixelFormat">
+        <source>"Invalid pixel format"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidImage" resname="Vcl_Consts_SInvalidImage">
+        <source>"Invalid image"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SScanLine" resname="Vcl_Consts_SScanLine">
+        <source>"Scan line index out of range"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SChangeIconSize" resname="Vcl_Consts_SChangeIconSize">
+        <source>"Cannot change the size of an icon"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SChangeWicSize" resname="Vcl_Consts_SChangeWicSize">
+        <source>"Cannot change the size of a WIC Image"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUnknownExtension" resname="Vcl_Consts_SUnknownExtension">
+        <source>"Unknown picture file extension (.%s)"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUnknownClipboardFormat" resname="Vcl_Consts_SUnknownClipboardFormat">
+        <source>"Unsupported clipboard format"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SOutOfResources" resname="Vcl_Consts_SOutOfResources">
+        <source>"Out of system resources"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SNoCanvasHandle" resname="Vcl_Consts_SNoCanvasHandle">
+        <source>"Canvas does not allow drawing"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidTextFormatFlag" resname="Vcl_Consts_SInvalidTextFormatFlag">
+        <source>"Text format flag '%s' not supported"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidImageSize" resname="Vcl_Consts_SInvalidImageSize">
+        <source>"Invalid image size"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833588</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidImageList" resname="Vcl_Consts_SInvalidImageList">
+        <source>"Invalid ImageList"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SReplaceImage" resname="Vcl_Consts_SReplaceImage">
+        <source>"Unable to Replace Image"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SImageIndexError" resname="Vcl_Consts_SImageIndexError">
+        <source>"Invalid ImageList Index"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SImageReadFail" resname="Vcl_Consts_SImageReadFail">
+        <source>"Failed to read ImageList data from stream"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SWindows2000" resname="System_RTLConsts_SWindows2000">
+        <source>"Windows 2000"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SWindowsXP" resname="System_RTLConsts_SWindowsXP">
+        <source>"Windows XP"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SWindowsServer2003" resname="System_RTLConsts_SWindowsServer2003">
+        <source>"Windows Server 2003"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SWindowsServer2003R2" resname="System_RTLConsts_SWindowsServer2003R2">
+        <source>"Windows Server 2003 R2"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SWindowsServer2012" resname="System_RTLConsts_SWindowsServer2012">
+        <source>"Windows Server 2012"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SWindows8" resname="System_RTLConsts_SWindows8">
+        <source>"Windows 8"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sObserverUnsupported" resname="System_RTLConsts_sObserverUnsupported">
+        <source>"Observer is not supported"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sObserverMultipleSingleCast" resname="System_RTLConsts_sObserverMultipleSingleCast">
+        <source>"Cannot have multiple single cast observers added to the observers collection"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sObserverNoInterface" resname="System_RTLConsts_sObserverNoInterface">
+        <source>"The object does not implement the observer interface"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sObserverNoSinglecastFound" resname="System_RTLConsts_sObserverNoSinglecastFound">
+        <source>"No single cast observer with ID %d was added to the observer collection"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sObserverNoMulticastFound" resname="System_RTLConsts_sObserverNoMulticastFound">
+        <source>"No multi cast observer with ID %d was added to the observer collection"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sObserverNotAvailable" resname="System_RTLConsts_sObserverNotAvailable">
+        <source>"Observer is not available"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidTabPosition" resname="Vcl_Consts_SInvalidTabPosition">
+        <source>"Tab position incompatible with current tab style"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidTabStyle" resname="Vcl_Consts_SInvalidTabStyle">
+        <source>"Tab style incompatible with current tab position"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidBitmap" resname="Vcl_Consts_SInvalidBitmap">
+        <source>"Bitmap image is not valid"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SInvalidIcon" resname="Vcl_Consts_SInvalidIcon">
+        <source>"Icon image is not valid"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SGenericItemNotFound" resname="System_RTLConsts_SGenericItemNotFound">
+        <source>"Item not found"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SGenericDuplicateItem" resname="System_RTLConsts_SGenericDuplicateItem">
+        <source>"Duplicates not allowed"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SInsufficientRtti" resname="System_RTLConsts_SInsufficientRtti">
+        <source>"Insufficient RTTI available to support this operation"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SParameterCountMismatch" resname="System_RTLConsts_SParameterCountMismatch">
+        <source>"Parameter count mismatch"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SNonPublicType" resname="System_RTLConsts_SNonPublicType">
+        <source>"Type '%s' is not declared in the interface section of a unit"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SByRefArgMismatch" resname="System_RTLConsts_SByRefArgMismatch">
+        <source>"VAR and OUT arguments must match parameter type exactly"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SServiceNotFound" resname="System_RTLConsts_SServiceNotFound">
+        <source>"Specified Login Credential Service not found"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SVersionStr" resname="System_RTLConsts_SVersionStr">
+        <source>"%s (Version %d.%d, Build %d, %5:s)"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335995</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SSPVersionStr" resname="System_RTLConsts_SSPVersionStr">
+        <source>"%s Service Pack %4:d (Version %1:d.%2:d, Build %3:d, %5:s)"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SVersion32" resname="System_RTLConsts_SVersion32">
+        <source>"32-bit Edition"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SVersion64" resname="System_RTLConsts_SVersion64">
+        <source>"64-bit Edition"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SWindows" resname="System_RTLConsts_SWindows">
+        <source>"Windows"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SWindowsVista" resname="System_RTLConsts_SWindowsVista">
+        <source>"Windows Vista"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SWindowsServer2008" resname="System_RTLConsts_SWindowsServer2008">
+        <source>"Windows Server 2008"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SWindows7" resname="System_RTLConsts_SWindows7">
+        <source>"Windows 7"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SWindowsServer2008R2" resname="System_RTLConsts_SWindowsServer2008R2">
+        <source>"Windows Server 2008 R2"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sInvalidStringAndObjectArrays" resname="System_RTLConsts_sInvalidStringAndObjectArrays">
+        <source>"Length of Strings and Objects arrays must be equal"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sInvalidTimeoutValue" resname="System_RTLConsts_sInvalidTimeoutValue">
+        <source>"Invalid Timeout value: %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sTimespanTooLong" resname="System_RTLConsts_sTimespanTooLong">
+        <source>"Timespan too long"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sInvalidTimespanDuration" resname="System_RTLConsts_sInvalidTimespanDuration">
+        <source>"The duration cannot be returned because the absolute value exceeds the value of TTimeSpan.MaxValue"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sTimespanValueCannotBeNan" resname="System_RTLConsts_sTimespanValueCannotBeNan">
+        <source>"Value cannot be NaN"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sCannotNegateTimespan" resname="System_RTLConsts_sCannotNegateTimespan">
+        <source>"Negating the minimum value of a Timespan is invalid"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sInvalidTimespanFormat" resname="System_RTLConsts_sInvalidTimespanFormat">
+        <source>"Invalid Timespan format"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sTimespanElementTooLong" resname="System_RTLConsts_sTimespanElementTooLong">
+        <source>"Timespan element too long"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SNoContext" resname="System_RTLConsts_SNoContext">
+        <source>"No context-sensitive help installed"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SNoContextFound" resname="System_RTLConsts_SNoContextFound">
+        <source>"No help found for context %d"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SNoIndex" resname="System_RTLConsts_SNoIndex">
+        <source>"Unable to open Index"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SNoSearch" resname="System_RTLConsts_SNoSearch">
+        <source>"Unable to open Search"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SNoTableOfContents" resname="System_RTLConsts_SNoTableOfContents">
+        <source>"Unable to find a Table of Contents"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SNoTopics" resname="System_RTLConsts_SNoTopics">
+        <source>"No topic-based help system installed"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SNothingFound" resname="System_RTLConsts_SNothingFound">
+        <source>"No help found for %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SArgumentOutOfRange" resname="System_RTLConsts_SArgumentOutOfRange">
+        <source>"Argument out of range"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SThreadExternalTerminate" resname="System_RTLConsts_SThreadExternalTerminate">
+        <source>"Cannot terminate an externally created thread"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SThreadExternalWait" resname="System_RTLConsts_SThreadExternalWait">
+        <source>"Cannot wait for an externally created thread"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SThreadStartError" resname="System_RTLConsts_SThreadStartError">
+        <source>"Cannot call Start on a running or suspended thread"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336111</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SThreadExternalCheckTerminated" resname="System_RTLConsts_SThreadExternalCheckTerminated">
+        <source>"Cannot call CheckTerminated on an externally created thread"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SThreadExternalSetReturnValue" resname="System_RTLConsts_SThreadExternalSetReturnValue">
+        <source>"Cannot call SetReturnValue on an externally create thread"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SParamIsNil" resname="System_RTLConsts_SParamIsNil">
+        <source>"Parameter %s cannot be nil"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SParamIsNegative" resname="System_RTLConsts_SParamIsNegative">
+        <source>"Parameter %s cannot be a negative value"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SInputBufferExceed" resname="System_RTLConsts_SInputBufferExceed">
+        <source>"Input buffer exceeded for %s = %d, %s = %d"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SInvalidCharsInPath" resname="System_RTLConsts_SInvalidCharsInPath">
+        <source>"Invalid characters in path"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SDriveNotFound" resname="System_RTLConsts_SDriveNotFound">
+        <source>"The drive cannot be found"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SFileNotFound" resname="System_RTLConsts_SFileNotFound">
+        <source>"The specified file was not found"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_hNoFilterViewer" resname="System_RTLConsts_hNoFilterViewer">
+        <source>"No help viewer that supports filters"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sArgumentOutOfRange_StringIndex" resname="System_RTLConsts_sArgumentOutOfRange_StringIndex">
+        <source>"String index out of range (%d).  Must be &gt;= %d and &lt;= %d"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sArgumentOutOfRange_InvalidUTF32" resname="System_RTLConsts_sArgumentOutOfRange_InvalidUTF32">
+        <source>"Invalid UTF32 character value.  Must be &gt;= 0 and &lt;= $10FFFF, excluding surrogate pair ranges"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sArgument_InvalidHighSurrogate" resname="System_RTLConsts_sArgument_InvalidHighSurrogate">
+        <source>"High surrogate char without a following low surrogate char at index: %d. Check that the string is encoded properly"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_sArgument_InvalidLowSurrogate" resname="System_RTLConsts_sArgument_InvalidLowSurrogate">
+        <source>"Low surrogate char without a preceding high surrogate char at index: %d. Check that the string is encoded properly"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SPropertyException" resname="System_RTLConsts_SPropertyException">
+        <source>"Error reading %s%s%s: %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SReadError" resname="System_RTLConsts_SReadError">
+        <source>"Stream read error"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SReadOnlyProperty" resname="System_RTLConsts_SReadOnlyProperty">
+        <source>"Property is read-only"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SRegCreateFailed" resname="System_RTLConsts_SRegCreateFailed">
+        <source>"Failed to create key %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SRegGetDataFailed" resname="System_RTLConsts_SRegGetDataFailed">
+        <source>"Failed to get data for '%s'"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SRegSetDataFailed" resname="System_RTLConsts_SRegSetDataFailed">
+        <source>"Failed to set data for '%s'"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SResNotFound" resname="System_RTLConsts_SResNotFound">
+        <source>"Resource %s not found"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SSeekNotImplemented" resname="System_RTLConsts_SSeekNotImplemented">
+        <source>"%s.Seek not implemented"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SSortedListError" resname="System_RTLConsts_SSortedListError">
+        <source>"Operation not allowed on sorted list"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SStringExpected" resname="System_RTLConsts_SStringExpected">
+        <source>"String expected"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SSymbolExpected" resname="System_RTLConsts_SSymbolExpected">
+        <source>"%s expected"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SUnknownGroup" resname="System_RTLConsts_SUnknownGroup">
+        <source>"%s not in a class registration group"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SUnknownProperty" resname="System_RTLConsts_SUnknownProperty">
+        <source>"Property %s does not exist"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SWriteError" resname="System_RTLConsts_SWriteError">
+        <source>"Stream write error"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SThreadCreateError" resname="System_RTLConsts_SThreadCreateError">
+        <source>"Thread creation error: %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336227</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SThreadError" resname="System_RTLConsts_SThreadError">
+        <source>"Thread Error: %s (%d)"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SInvalidImage" resname="System_RTLConsts_SInvalidImage">
+        <source>"Invalid stream format"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SInvalidName" resname="System_RTLConsts_SInvalidName">
+        <source>"''%s'' is not a valid component name"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SInvalidProperty" resname="System_RTLConsts_SInvalidProperty">
+        <source>"Invalid property value"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SInvalidPropertyPath" resname="System_RTLConsts_SInvalidPropertyPath">
+        <source>"Invalid property path"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SInvalidPropertyValue" resname="System_RTLConsts_SInvalidPropertyValue">
+        <source>"Invalid property value"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SInvalidRegType" resname="System_RTLConsts_SInvalidRegType">
+        <source>"Invalid data type for '%s'"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SInvalidString" resname="System_RTLConsts_SInvalidString">
+        <source>"Invalid string constant"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SLineTooLong" resname="System_RTLConsts_SLineTooLong">
+        <source>"Line too long"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SListCapacityError" resname="System_RTLConsts_SListCapacityError">
+        <source>"List capacity out of bounds (%d)"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SListCountError" resname="System_RTLConsts_SListCountError">
+        <source>"List count out of bounds (%d)"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SListIndexError" resname="System_RTLConsts_SListIndexError">
+        <source>"List index out of bounds (%d)"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SMemoryStreamError" resname="System_RTLConsts_SMemoryStreamError">
+        <source>"Out of memory while expanding memory stream"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SNoComSupport" resname="System_RTLConsts_SNoComSupport">
+        <source>"%s has not been registered as a COM class"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SNumberExpected" resname="System_RTLConsts_SNumberExpected">
+        <source>"Number expected"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SAnsiUTF8Expected" resname="System_RTLConsts_SAnsiUTF8Expected">
+        <source>"ANSI or UTF8 encoding expected"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SParseError" resname="System_RTLConsts_SParseError">
+        <source>"%s on line %d"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SAncestorNotFound" resname="System_RTLConsts_SAncestorNotFound">
+        <source>"Ancestor for '%s' not found"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SAssignError" resname="System_RTLConsts_SAssignError">
+        <source>"Cannot assign a %s to a %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SBitsIndexError" resname="System_RTLConsts_SBitsIndexError">
+        <source>"Bits index out of range"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SCantWriteResourceStreamError" resname="System_RTLConsts_SCantWriteResourceStreamError">
+        <source>"Can't write to a read-only resource stream"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SCharExpected" resname="System_RTLConsts_SCharExpected">
+        <source>"''%s'' expected"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SCheckSynchronizeError" resname="System_RTLConsts_SCheckSynchronizeError">
+        <source>"CheckSynchronize called from thread $%x, which is NOT the main thread"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SClassNotFound" resname="System_RTLConsts_SClassNotFound">
+        <source>"Class %s not found"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SDuplicateClass" resname="System_RTLConsts_SDuplicateClass">
+        <source>"A class named %s already exists"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SDuplicateItem" resname="System_RTLConsts_SDuplicateItem">
+        <source>"List does not allow duplicates ($0%x)"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SDuplicateName" resname="System_RTLConsts_SDuplicateName">
+        <source>"A component named %s already exists"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SDuplicateString" resname="System_RTLConsts_SDuplicateString">
+        <source>"String list does not allow duplicates"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336343</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SFCreateErrorEx" resname="System_RTLConsts_SFCreateErrorEx">
+        <source>"Cannot create file \"%s\". %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336458</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SFOpenErrorEx" resname="System_RTLConsts_SFOpenErrorEx">
+        <source>"Cannot open file \"%s\". %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336458</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SIdentifierExpected" resname="System_RTLConsts_SIdentifierExpected">
+        <source>"Identifier expected"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336458</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SInvalidBinary" resname="System_RTLConsts_SInvalidBinary">
+        <source>"Invalid binary value"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968336458</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="System_RTLConsts_SInvalidFileName" resname="System_RTLConsts_SInvalidFileName">
+        <source>"Invalid file name - %s"</source>
+        <prop-group name="ITEFieldProp">
+ l version<prop 1.0"-type="Created">41755.8968336458</1.0"xml version="1.0" encoding="uStatus">0UBLIC "-//XLIFF/UBLIC -grou "-//XLIF</trans-unitiff/documnts/xliff. id="System_SysConst_SShortDayNameSat" resnam"htt">
+  <file original="C:\Users\usopen.org/cosource>"s\us</юже�pen.org/comittees/xl ocumenITEFieldPro<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file origiLongC:\Usersunser\Documents\RAD Studio\Proop">
+        <pатор сюжет�undayStoryGen.drc" source-language="ru-RU" target-language="en-US" datatype="cpp" tool="ETM v10.0" ts="C:\Users\user\Documents\RAD Studio\Projects\Генератор сюжета\StoryGen.drc">
+    <header>
+      <prop-group name="ITEHeaderProp">
+      Mo<prop prop-type="Version">9.0</prop>
+   rop>атор сюжетMofDateTime">41755.9262962963</prop>
+        <prop prop-type="OrigDateTime">41755.9262962963</prop>
+        <prop prop-type="XlatDateTime">41755.8966203704</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">414</pTueprop prop-type="Version">9.0</prop>
+   .896атор сюжетTuesDateTime">41755.9262962963</prop>
+        <prop prop-type="OrigDateTime">41755.9262962963</prop>
+        <prop prop-type="XlatDateTime">41755.8966203704</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">414</pWedprop prop-type="Version">9.0</prop>
+   d">4атор сюжетWedn    </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sTabFailClear" resname="Vcl_ComStrs_sTabFailClear">
+        <source>"Failed to clear tab control"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="CreateThu68335185</prop>
+          <prop prop-typhu"Status">0</prop>
+   hur   </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sTabFailClear" resname="Vcl_ComStrs_sTabFailClear">
+        <source>"Failed to clear tab control"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="CreateFriprop prop-type="Version">9.0</prop>
+       атор сюжетFriDateTime">41755.9262962963</prop>
+        <prop prop-type="OrigDateTime">41755.9262962963</prop>
+        <prop prop-type="XlatDateTime">41755.8966203704</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">414</ps\user\Documents\RAD Studio\Pro<prop-group namатор сюжета\urDateTime">41755.9262962963</prop>
+        <prop prop-type="OrigDateTime">41755.9262962963</prop>
+        <prop prop-type="XlatDateTime">41755.8966203704</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslaInvalidS�жеArrayser\Documents\RAD Studio\Proce>
+        <prop-gатор сюжетce>
+    юже arop-g</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sTabFailSet" resname="Vcl_ComStrs_sTabFailSet">
+        <source>"Failed to set tab \"%s\" at index %d"</source>
+   Destinationprop-group name="ITEFieldProp">
+             <prop-group -type="Created">41755.89683d    <prop-/prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sTabFailSetObject" resname="Vcl_ComStrs_sTabFailSetObject">
+        <source>"Failed to set object at index %d"</sourCharIndexOutOfBoundsser\Documents\RAD Studio\Proor tpRight"</source>
+атор сюжетor tacter iRigh out of burce> (%d)
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sTabFailSetObject" resname="Vcl_ComStrs_sTabFailSetObject">
+        <source>"Failed to set object at index %d"</sourBytepRight"</source>
+        <prop-group name="I="ITEFieldProp">
+    атор сюжет�tart>41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sInvalidOwner" resname="Vcl_ComStrs_sInvalidOwner">
+        <source>"Invalid owner"</source>
+        <prop-group namece>
+   or tCounuser\Documents\RAD Studio\Prorop">
+          <-type="Created">41755.89683c    </prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sRichEditInsertError" resname="Vcl_ComStrs_sRichEditInsertError">
+        <source>"RichEdit line insertion error"</source>
+        <prop-group name="ITEFieldProp">
+      <prop-pRigh name="ITEFieldProp">
+          <prop prop-typrop-tyated">41755.8968335185</prop>
+         41755./prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sRichEditInsertError" resname="Vcl_ComStrs_sRichEditInsertError">
+        <source>"RichEdit line insertion error"</source>
+        <prop-group name="ITEFieldProp">
+  odePag968335185</prop>
+          <pated">41755.8968rop>
+          <prop prop-typde p8968>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sRichEditInsertError" resname="Vcl_ComStrs_sRichEditInsertError">
+        <source>"RichEdit line insertion error"</source>
+        <prop-group name="ITEFieldProp">
+ EncodingUser8335185</prop>
+          <prop propop">
+        -type="Created">41755.89683ep">
+   "ru-RStoryGen.drc" source-language="ru-RU" target-language="en-US" datatype="cpp" tool="ETM v10.0" ts="C:\Users\user\Documents\RAD Studio\Projects\Генератор сюжета\StoryGen.drc">
+    <header>
+      <prop-group name="ITEHeaderProp">Month
+    arme="ITEFieldProp">
+          <prprop-group nady>
+      <trans-uniarch0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sInvalidComCtl32" resname="Vcl_ComStrs_sInvalidComCtl32">
+        <source>"This control requires version 4.70 or greater of COMCTL32.DLL"</source>
+        <prop-grouApname="ITEFieldProp">
+          <prop prop- namатор сюжетApril0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sInvalidComCtl32" resname="Vcl_ComStrs_sInvalidComCtl32">
+        <source>"This control requires version 4.70 or greater of COMCTL32.DLL"</source>
+        <prop-group -group name="ITEFieldProp">
+ /source>
+        ="Created">41755.8968teTime">41755.9262962963</prop>
+        <prop prop-type="OrigDateTime">41755.9262962963</prop>
+        <prop prop-type="XlatDateTime">41755.8966203704</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated"prop-grouJ <prop prop-type="Version">9.0</prandle"</sourcатор сюжетJun>0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_ComStrs_sInvalidComCtl32" resname="Vcl_ComStrs_sInvalidComCtl32">
+        <source>"This control requires version 4.70 or greater of COMCTL32.DLL"</source>
+        <prop-grouJul <prop-group name="ITEFieldProp">
+       at"<          <prop prop-led">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleInvalidHandle" resname="Vcl_Consts_SStyleInvalidHandle">
+        <source>"Invalid style handle"</sAugme="ITEFieldProp">
+          <prop prop-tyug="Created">41755.8968ugus\StoryGen.drc" source-language="ru-RU" target-language="en-US" datatype="cpp" tool="ETM v10.0" ts="C:\Users\user\Documents\RAD Studio\Projects\Генератор сюжета\StoryGen.drc">
+    <header>
+      <prop-group name="ITEHeaderProp">prop-grouSep <prop-group name="ITEFieldProp">
+        <soатор сюжет�eptemberprop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleHookClassRegistered" resname="Vcl_Consts_SStyleHookClassRegistered">
+       Ocame="ITEFieldProp">
+          <prme="Vcl_Constатор сюжетOctoop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleHookClassNotRegistered" resname="Vcl_CNov <prop-group name="ITEFieldProp">
+       tyleатор сюжетNovprop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <pro574rop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleHookClassRegistered" resname="Vcl_Consts_SStyleHookClassRegistered">
+       Dec <prop-group name="ITEFieldProp">
+        id=атор сюжетDec     <source>"%s parameter cannot be nil"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+    nal="C:\Users <prop prop-type="Version">9.0    </prop-group <prop prop-type="SelfsNotFound">
+        <source>"A StyleHook class has not been registered for %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-grop>
+      </prop-group>
+    </  <prop prop-typdy>
+      <trans-unit sNotFound">
+        <source>"A StyleHook class has not been registered for %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-g.8968335185</prop>
+          <p35301</prop>
+   Status">0</prop>
+     sNotFound">
+        <source>"A StyleHook class has not been registered for %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-gd">41755.8968335185</prop>
+    prop-type="Creatp-type="Status">0</pro   <trans-unit id="Vcl_Consts_SStyleNotRegistered" resname="Vcl_Consts_SStyleNotRegistered">
+        <source>"Style '%s' is not registered"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+type="Created">41755.896833518ldProp">
+           <prop prop-type="SsNotFound">
+        <source>"A StyleHook class has not been registered for %s"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-g          <prop prop-type="CreaTEFieldProp">
+  335185</prop>
+        <source>"%s parameter cannot be nil"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+    OSErroname="ITEFieldProp">
+        </sourceатор сюжет�">
+   sourc.  1755: %d.\r\n%s%s<source>"%s parameter cannot be nil"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+    Unk</source>
+        <prop-group name=t reference"Created">41755.8968 call to an OS func     fail0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleNotRegisteredNoName" resname="Vcl_Consts_SStyleNotRegisteredNoName">
+        <source>"Style not registered"</source>
+        <prop-group name="ITEFieldProme="ITEFieaype="Status">0</prop>
+        </prrce>
+                  <prop propa    <trans-unit id="Vcl_Consts_SStyleNotRegistered" resname="Vcl_Consts_SStyleNotRegistered">
+        <source>"Style '%s' is not registered"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301prop-grouFeb <prop-group name="ITEFieldProp">
+        name335185</prop>
+      eb">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SASCIIEncoding" resname="Vcl_Consts_SASCIIEncoding">
+        <source>"ASCII"</source>
+        <prop-group p name="ITEFieldProp">
+        oup name="ITEField="Created">41755.89683">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SASCIIEncoding" resname="Vcl_Consts_SASCIIEncoding">
+        <source>"ASCII"</source>
+        <prop-group  name="ITEFieldProp">
+         op-group name="ITE"Created">41755.89683301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUnicodeEncoding" resname="Vcl_Consts_SUnicodeEncoding">
+        <source>"Unicode"</source>
+        <prop-group name="ITEFie-group name="ITEFieldProp">
+ FieldProp">
+      prop prop-type="Created">41755.8968335185</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </op-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SANSIEncoding" resname="Vcl_Consts_SANSIEncoding">
+        <source>"ANSI"</source>
+     oup>
+      </trans-unit>
+      <traEFieldProp">
+          <prop prop-top prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUTF7Encoding" resname="Vcl_Consts_SUTF7Encoding">
+        <source>"UTF-7"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-t"</source>
+        <prop-grou name="ITEFieldProrop">
+          <prop           <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SBigEndianEncoding" resname="Vcl_Consts_SBigEndianEncoding">
+        <source>"Big Endian Unicode"</source>
+        <prop-group name="tyle File"</source>
+        <p>
+        <prop-grTEFieldProp">
+        op prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUTF7Encoding" resname="Vcl_Consts_SUTF7Encoding">
+        <source>"UTF-7"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop <source>"Class '%s' is alreadyows Vista or later%s'"</source>
+        op prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUTF7Encoding" resname="Vcl_Consts_SUTF7Encoding">
+        <source>"UTF-7"</source>
+        <prop-group name="ITEFieldProp">
+          <prop proponsts_SStyleHookClassNotRegiste  <source>"Button%urce>"Class '%s' is noop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUTF7Encoding" resname="Vcl_Consts_SUTF7Encoding">
+        <source>"UTF-7"</source>
+        <prop-group name="ITEFieldProp">
+          <prop proptyleInvalidParameter" resname="on">
+        <sourInvalidParameter">
+   op prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUTF7Encoding" resname="Vcl_Consts_SUTF7Encoding">
+        <source>"UTF-7"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop id="Vcl_Consts_SStyleHookClassidTaskDlgButtonCap="Vcl_Consts_SStyleHoo<source>"%s parameter cannot be nil"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit    <prop-group name="ITEFieldPVcl_Consts_SStylerop prop-type="Createduarrop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUTF7Encoding" resname="Vcl_Consts_SUTF7Encoding">
+        <source>"UTF-7"</source>
+        <prop-group name="ITEFieldProp">
+      red">
+       name="ITEFieldProp">
+          ame="Vcl_Consts_Sreated">41755.89683353r       <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleLoadErrors" resnVarOverflowser\Documents\RAD Studio\Proor" resname=атор сюжетVariant oresname=       <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleRegisterError"ce>
+   ="Vcl_Consts_SStyleRegisterErroyleClass-type="Created">41755.89683argumenop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_STaskDlgRadioButtonCaption" resname="Vcl_Consts_STaskDlgRadioButtonCaptiVarBadTyp    <prop prop-type="Created">
+      <tr-type="Created">41755.89683vs' alreing=stered"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStNotImple <so">41755.8968335185</prop>
+    </trans-unit>
+    urce>"Class '%s' is per      not suppor    rce>"Style class '%s' already registered"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+ Unexpec      <trans-unit id="Vcl_Consts_SVcl_Consts_атор сюжетVcl_ConstsveNotAlloeourcep prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUTF7Encoding" resname="Vcl_Consts_SUTF7Encoding">
+        <source>"UTF-7"</source>
+        <prop-group name="ITEFieldProp">
+      ExternalExceprop-ser\Documents\RAD Studio\ProVcl_Consts_SErrorLатор сюжетVcl_Cons es_SError %xop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <69UBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file origiAsserrop-F<prop er\Documents\RAD Studio\Proit id="Vcl_Const"Created">41755.8968t id="Vc  <prop prop-type="Created">41755.8968335301</prop>
+          <prop prop-type="Status">0</prop>
+        </pr"Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unIntfCastsource>
+        <prop-group name=s" resname="Vc-type="Created">41755terfacens">
+        <source>"More Buttons"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Cr"Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unSafeTEFits_SErrorLoadingFile">
+        <sourcBar" resname="Vcl_reviously saved setti %s\rWouin sar" res metho
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SResetActionToolMonitorLockts_SErrorLoadingFile">
+        <sourc="Vcl_Consts_SCirculaurce>"Class '%s' is bject lockns">
+own>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SResetActionToolNo="Vcl_CS      ts_SErrorLoadingFile">
+        <sourc" resname="Vcl_Consts_SCandy>
+      <trans-unit cl_C
+       
+         s">
+initializ     <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SCannotHideActionBand" ns-unit>
+      <trans-unit id="Vcl_ConstMoreButtons" resname="Vcl_Consts_SFe6833tons"<i-unit>
+           <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SResetActionToollowed"Disposnsts_SNoName" resname="Vcl_Contual">
+        dy>
+      <trans-uniup naITEFied on d        oowed" you like to delete it?"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id=source>
+        <prop-group name=cl_Consts_SUатор сюжет%props, line p>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-un"Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unibsteatests_SUnableToSaveSettings">
+      edule" resnam"Created">41755.8968edule" rop-tyme="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SCircularReferencesNotAllowed" resname="duleAccessViolprop-arReferencesNotAllowed">
+           <trans-unit id"Created">41755.8968 <tra vs-unit i at addrtHan%p    mHandl '%s'. %s8335  <source>       <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SListBoxMustBeVirtual" resname="Vcl_Consts_SListBoxMustBeVir
+   atchsource>
+        <prop-group name=issingActionBa   <source>"Style '%s' alreoup naITEFisons"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SResetActionToolReadventHats_SNoName" resname="Vcl_Connit id="Vclатор сюжетnit        <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SListBoxMustBeVirtual" resname="Vcl_Consts_SListBoxMustBeVirWrit   <trats_SNoName" resname="Vcl_Con<prop-group p-type="Status">0</pprop       <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SListBoxMustBeVirtual" resname="Vcl_Consts_SListBoxMustBeVirVarprop-tf-8"?   <trans-unit id="Vcl_Consts_Sg dock zone reviously saved settourc cf-8"StateNotAllo   <af</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-ut>
+      <trans-unit id="Vcl_Consts_SDockZoneVersionConflict" resname="Vcl_Consts_SDockZoneVersionConflict">
+        <source>"Error loading docource>
+        <prop-group name="IrrayTooShort">
+   <source>"Style '%s' alreame="ITEField>41755.8968335185</p8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDockZoneVersionConflict" resname="Vcl_Consts_SDockZoneVersionConflict">
+        <source>"Error loading doconst     <trans-unit id="Vcl_Consts_Ssts_SPromptAt be &gt;= length of prompt array"</sources</sou>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SAddRemoveButtons">
+   Varesna8335185</prop>
+          <prop prop      <sd" resname="Vcl_Consts_SMoveNotAllowed" converst ide="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUsername" resname="Vcl_Consts_SUsername">
+     Osource>"Class '%s' is alreadyource>
+      d" resname="Vcl_Consts_SMoveNotAlloooreButto-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SPassword" resname="Vcl_Consts_SPassword">
+        <source>"&amp;Password"</source>
+   Null     <prop-group name="ITEFieldProp">
+  ">
+    -type="Created">41755.89683NULLted">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDomain" resname="Vcl_Consts_SDomain">
+        <source>"&amp;Domain"</source>
+        <prop-group name="ITEFieldPropOpWithHResultrop>Prefitype="Created">41755.8968335185</pro17</prop>
+          <prop p     <prop prop-type="Created">41755.8968335gs"<%.8x)17558968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDockZoneVersionConflict" resname="Vcl_Consts_SDockZoneVersionConflict">
+        <source>"Error loadin  <tt"</sRange    <prop prop-type="Status">0</prop>
+/trans-unit>
+      <trans-un   <prop prop-type="ustomp">
+          Capti4x)p-gr8968335r    name="Vcl_Consts_SKeyCaption">
+        <source>"Key"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-AlreadyUsed  <trans-unit id="Vcl_Consts_SValueCaption" ronflict">
+        <soualueCaption">
+        <source>"Value"</source>
+ anflict u <prby esname="Vcl_Consts_SKeyCaption">
+        <source>"Key"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-NotUsabl   <trans-unit id="Vcl_Consts_SValueCaption" rd"</source>
+        alueCaption">
+        <source>"Value"</source>
+    s">
+usourcname="Vcl_Consts_SKeyCaption">
+        <source>"Key"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-TooMany   <sonit id="Vcl_Consts_SValueCaption" rITEFieldProp">Status">0</prop>
+   oo many c  <source>"Value"<s have been register         <prop prop-type="Created">41755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SListBoxMustBeVirtual" resname="Vcl_Consts_SListBoxMustBeVir/trans-CouldNotCprop <source>"&amp;Username"</sourrop prop-type="Created"   <prop prop-type="-typprop <prop tp-group naflue"</sou) into</trans-unop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SNoEqualsInKey" resname="Vcl_Consts_SNoEqualsInKey">
+        <source>"Key may not contain equals sign (\"=\")"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-op-gr resname="Vcl_Consts_SStyleRegisterErro"ITEFieldProp">
+    urce>"Class '%s' is resname whil  <prop <prop-group na </trans-unit>
+      <trans-unit id="Vcl_Consts_SAssignSubItemError" resname="Vcl_Consts_SAssignSubItemError">
+        <source>"Cannot assign a subitem to an actionbar when one of it's parent's is already assigned to an actionbar"</source>
+        <prop-group naInrop">
+          <prop prop-type="Crea prop-type="rce>"&amp;Add or Removegeready registered"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8ype="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SUsername" resname="Vcl_Consts_SUsername">
+       <prop-group name="ITEFieldProp">8335417</prop>
+          <propflo <proppoi1755.8968335417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+    806UBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file origiZeroDivide from the stream. Expecting >41755.8968      <prop-group na    <prop propdiviprop prozeroatus">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcAlt" resname="Vcl_Consts_SmkcAlt">
+        <source>"Alt+"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created" resname="Vcl_Consts_SStyleRegisterEp>
+          <prop prop-type
+        </propady registered"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8sname="Vcl_Consts_SmkcAlt">
+        <source>"Alt+"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created"Undesname="Vcl_Consts_SStyleRegisterE532</prop>tus">0</prop>
+        </prop-groupu32</prop>/trans-unit>
+      <trans-unit id="Vcl_Consts_SDefaultFilter" resname="Vcl_Consts_SDefaultFilter">
+        <source>"All files (*.*)|*.*"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335me">
+  P proeVcl_Consts_SAddRemoveButtons">
+ype="Status">-type="Created">41755.89683p protus"type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcAlt" resname="Vcl_Consts_SmkcAlt">
+        <source>"Alt+"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created"rop">
+    <source>"&amp;Username"</source>
+     <prop-group name="ITEFieldPropclassowed"c  <s/trans-unit>
+      <trans-unit id="Vcl_Consts_SDefaultFilter" resname="Vcl_Consts_SDefaultFilter">
+        <source>"All files (*.*)|*.*"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335  <trans-unit iArg3ts_SNoName" resname="Vcl_Cons">0</prop>
+        _Consts_SNoGetItemEventHandler">
+        <source>vent handler assigned"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968e>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+   NoAryle File"</source>
+        <p      </trans-unit>
+ _Consts_SNoGetItemEventHandler">
+  validClipFmt" resname="Vcl_Consts_SInvalidClipFmt">
+        <source>"Invalid clipboard format"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="StatuStack resname="Vcl_Consts_SStyleRegisterE   </trans-uni</prop>
+          <prockp>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SDefaultFilter" resname="Vcl_Consts_SDefaultFilter">
+        <source>"All files (*.*)|*.*"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335ControlC
+        <prop-group name="IT>
+      ="Status">0</prop>
+  
+    -C hinvalidClipFmt" resname="Vcl_Consts_SInvalidClipFmt">
+        <source>"Invalid clipboard format"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="StatuPrivile968335185</prop>
+          <prStatus">0<атор сюжетStatus">0d instru     validClipFmt" resname="Vcl_Consts_SInvalidClipFmt">
+        <source>"Invalid clipboard format"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Statuts_SErrorLoadingFile">
+        <source><source>"Reset Toolbar"</source>
+    %s"No OnGetIt%s    %p">41755.8>417sts_SNoDefaultPrinter" resname="Vcl_Consts_SNoDefaultPrinter">
+        <source>"There is no default printer currently selected"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+     Title from the stream. Expecting op>
+        "Created">41755.89683plics_SKeyke to reset to the default Priority Schedule?"</source>
+        <prop-group name="ITEFieldProp">
+         rce>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0<Form\user\Documents\RAD Studio\Pro755.8968335532tus">0</prop>
+      33553tem e i5.89683o">41compatible with      <source>"Style class '%s' already registered"</source>
+        <prop-group name="ITEFieldProp">
+        e>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status    <soMissin
+      <trans-unit id="Vcl_Con532</prop>
+    InvalidParameter">
+        <so forns-urop-grou</trans-unit>
+      <trans-unit id="Vcl_Consts_SDefaultFilter" resname="Vcl_Consts_SDefaultFilter">
+        <source>"All files (*.*)|*.*"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.896833553knowid="Vcl_Consts_SNoGetItemEven        атор сюжет&lt;u      &gt;-unit>
+      <trans-unit id="Vcl_Consts_sAllFilter" resname="Vcl_Consts_sAllFilter">
+        <source>"All"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="="Statu2</prop>
+          <prop prop-type=5532</prатор сюжетgroup><prop a .89683="Vcatusval      </trans-unit>
+      <trans-unit id="Vcl_Consts_SStyleUnregisterError" resname="Vcl_Consts_SStyleU      <source>"Docked control must have a name"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968    2</prop>
+          <prop prop-type="     prop>
+        </prop-group>
+      </tra     <prop prop
+      <trans-unit id="Vcl_Consts_SmkcTab" resname="Vcl_Consts_SmkcTab">
+        <source>"Tab"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+TimeStam    <prop-group name="ITEFieldProp"> id="Vcl_Cprop>
+        </prop-d.%droup>
+      </tratimesVcl_C <trans-unit id="Vcl_Consts_SmkcTab" resname="Vcl_Consts_SmkcTab">
+        <source>"Tab"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+GUID2</prop>
+          <prop prop-type=ace">prop>
+        </prop-group>
+      </traace"nsts_SmkcEsc">
+        <source>"Esc"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <tra id=op">
+esource>
+        <prop-group name=>
+        <prop-yleClassRegisterError">
+        <soeldP    type="   <trans-unit id="Vcl_Consts_SmkcTab" resname="Vcl_Consts_SmkcTab">
+        <source>"Tab"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0<Dat       <prop-group name="ITEFieldProp">
+<prop prop-type=prop-type="Created">41755.8968335532</pdat>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcPgDn" resname="Vcl_Consts_SmkcPgDn">
+        <source>"PgDn"</source>
+        <prop-group name="ITEFieldProp">
+          t"</sMemor-group name="ITEFieldProp">
+     <prop prurce>"Class '%s' is 968335mrop pr <trans-unit id="Vcl_Consts_SmkcTab" resname="Vcl_Consts_SmkcTab">
+        <source>"Tab"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</pOuame="Vcl_Consts_SAddRemoveButtons">
+0</prop>
+-type="Created">4175/O   <pr %arStyleMissing">
+        <source>"No ActionBand style unit present in the uses clause.\rYour applicatiprop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcPgUp" resname="Vcl_Consts_SmkcPgUp">
+        <source>"PgUp"</source>TEFielOpenFilep name="ITEFieldProp">
+      p-group>
+      </35417</prop>
+          <propopen f   </pboard">
+        <source>"Clipboard does not support Icons"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      Deninsts_SNoName" resname="Vcl_Cons"Vcl_Consts_tus">0</prop>
+      e="SaentHandonsts_ts_SNoDefaultPrinter" resname="Vcl_Consts_SNoDefaultPrinter">
+        <source>"There is no default printer currently selected"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335532</prop>
+ndOf"Rig   <prop prop-type="Status">0Vcl_Conste="Vcl_Consts_SActionBa beyon-typd    Up">    <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SmkcPgDn" resname="Vcl_Consts_SmkcPgDn">
+        <source>"PgDn"</source>
+        <prop-group name="ITEFieldProp">
+          <iskFul"</source>
+        <prop-grource>"Ins"="Vcl_Consts_SStyleHisk fIns"-unit>
+      <trans-unit id="Vcl_Consts_SDockZoneHasNoCtl" resname="Vcl_Consts_SDockZoneHasNoCtl">
+        <source>" - Dock zone has no control"</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.89683355pu    </prop-group>
+      </trans-unit<prop--type="Created">41755.89683numeric iprop-toryGen.drc" source-language="ru-RU" target-language="en-US" datatype="cpp" tool="ETM v10.0" ts="C:\9215417</prop>
+          <prop prop-type="Status">0</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SMisvBy>417"</source>
+        <prop-groupop">
+   ITEFieldProp">
+      roup>
+      </trans-unit>
+      <trans-unit id="Vcl_Consts_SOutOfRange" resname="Vcl_Consts_SOutOfRange">
+        <rans-unit id="Vcl_Consts_SmkcShift" resname="Vcl_Consts_SmkcShift">
+        <source>"Shift+"</source>
+        <prop-group name="ITEField
+    source>
+        <prop-group name=op-type="Cre="Vcl_Consts_SActio     check   <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41755.8968335417</prop>
+          <rans-unit id="Vcl_Consts_SmkcShift" resname="Vcl_Consts_SmkcShift">
+        <source>"Shift+"</source></bodydrc"</Up">>
+</xliff>

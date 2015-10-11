@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{58A4F321-4D11-4324-9D40-02DFC67FE85E}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="StoryGen.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ENU\StoryGen_ENU.bdsproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="StoryGen">
+        <MSBuild Projects="StoryGen.dproj"/>
+    </Target>
+    <Target Name="StoryGen:Clean">
+        <MSBuild Projects="StoryGen.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="StoryGen:Make">
+        <MSBuild Projects="StoryGen.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="StoryGen_ENU">
+        <MSBuild Projects="ENU\StoryGen_ENU.bdsproj"/>
+    </Target>
+    <Target Name="StoryGen_ENU:Clean">
+        <MSBuild Projects="ENU\StoryGen_ENU.bdsproj" Targets="Clean"/>
+    </Target>
+    <Target Name="StoryGen_ENU:Make">
+        <MSBuild Projects="ENU\StoryGen_ENU.bdsproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="StoryGen;StoryGen_ENU"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="StoryGen:Clean;StoryGen_ENU:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="StoryGen:Make;StoryGen_ENU:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Users\user\Documents\RAD Studio\Projects\Генератор сюжета\YouNotSelectTheFile.dfm" source-language="ru-RU" target-language="en-US" datatype="delphiform" tool="ETM v10.0" ts="C:\Users\user\Documents\RAD Studio\Projects\Генератор сюжета\YouNotSelectTheFile.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">41755.8968287037</prop>
+        <prop prop-type="OrigDateTime">41749.5790509259</prop>
+        <prop prop-type="XlatDateTime">41749.5790509259</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">110</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:NoSelectFile_ErrorForm.Left" resname="O:NoSelectFile_ErrorForm.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318634</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.Top" resname="O:NoSelectFile_ErrorForm.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.BorderStyle" resname="O:NoSelectFile_ErrorForm.BorderStyle">
+        <source>bsDialog</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.Caption" resname="O:NoSelectFile_ErrorForm.Caption">
+        <source>'Ошибка!'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.ClientHeight" resname="O:NoSelectFile_ErrorForm.ClientHeight">
+        <source>133</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.ClientWidth" resname="O:NoSelectFile_ErrorForm.ClientWidth">
+        <source>469</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.Color" resname="O:NoSelectFile_ErrorForm.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.Font.Charset" resname="O:NoSelectFile_ErrorForm.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.Font.Color" resname="O:NoSelectFile_ErrorForm.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.Font.Height" resname="O:NoSelectFile_ErrorForm.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.Font.Name" resname="O:NoSelectFile_ErrorForm.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.Font.Style" resname="O:NoSelectFile_ErrorForm.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.OldCreateOrder" resname="O:NoSelectFile_ErrorForm.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.Position" resname="O:NoSelectFile_ErrorForm.Position">
+        <source>poOwnerFormCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.PixelsPerInch" resname="O:NoSelectFile_ErrorForm.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.TextHeight" resname="O:NoSelectFile_ErrorForm.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TNoSelectFile_ErrorForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.Left" resname="O:NoSelectFile_ErrorForm.O:Label1.Left">
+        <source>99</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.Top" resname="O:NoSelectFile_ErrorForm.O:Label1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.Width" resname="O:NoSelectFile_ErrorForm.O:Label1.Width">
+        <source>370</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.Height" resname="O:NoSelectFile_ErrorForm.O:Label1.Height">
+        <source>104</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.Align" resname="O:NoSelectFile_ErrorForm.O:Label1.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.AutoSize" resname="O:NoSelectFile_ErrorForm.O:Label1.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.896831875</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.Caption" resname="O:NoSelectFile_ErrorForm.O:Label1.Caption">
+        <source>'Вы выбрали загрузку списка вариантов из файловой системы, но не выбрали ни одного файла! Загрузите новый файл или выберите один из ранее использованных, иначе - выберите из встроенных жанров, чтобы продолжить работу.'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.Font.Charset" resname="O:NoSelectFile_ErrorForm.O:Label1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.Font.Color" resname="O:NoSelectFile_ErrorForm.O:Label1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.Font.Height" resname="O:NoSelectFile_ErrorForm.O:Label1.Font.Height">
+        <source>-14</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.Font.Name" resname="O:NoSelectFile_ErrorForm.O:Label1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.Font.Style" resname="O:NoSelectFile_ErrorForm.O:Label1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.ParentFont" resname="O:NoSelectFile_ErrorForm.O:Label1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.WordWrap" resname="O:NoSelectFile_ErrorForm.O:Label1.WordWrap">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.ExplicitLeft" resname="O:NoSelectFile_ErrorForm.O:Label1.ExplicitLeft">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.ExplicitWidth" resname="O:NoSelectFile_ErrorForm.O:Label1.ExplicitWidth">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Label1.ExplicitHeight" resname="O:NoSelectFile_ErrorForm.O:Label1.ExplicitHeight">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.Left" resname="O:NoSelectFile_ErrorForm.O:Panel1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.Top" resname="O:NoSelectFile_ErrorForm.O:Panel1.Top">
+        <source>104</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.Width" resname="O:NoSelectFile_ErrorForm.O:Panel1.Width">
+        <source>469</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.Height" resname="O:NoSelectFile_ErrorForm.O:Panel1.Height">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.Align" resname="O:NoSelectFile_ErrorForm.O:Panel1.Align">
+        <source>alBottom</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.BevelOuter" resname="O:NoSelectFile_ErrorForm.O:Panel1.BevelOuter">
+        <source>bvNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.TabOrder" resname="O:NoSelectFile_ErrorForm.O:Panel1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Left" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Top" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Width" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318866</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Height" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Height">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Align" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Align">
+        <source>alLeft</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Caption" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Caption">
+        <source>'Хорошо'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Font.Charset" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Font.Color" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Font.Height" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Font.Name" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Font.Style" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.ModalResult" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.ModalResult">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.ParentFont" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.TabOrder" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:Ok.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Left" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Left">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Top" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Width" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Width">
+        <source>126</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Height" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Height">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Align" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Align">
+        <source>alLeft</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Caption" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Caption">
+        <source>'Я исправлюсь!'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Font.Charset" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Font.Color" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Font.Height" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Font.Name" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Font.Style" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968318981</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.ModalResult" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.ModalResult">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.ParentFont" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.TabOrder" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Visible" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok2.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Left" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Left">
+        <source>201</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Top" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Width" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Width">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Height" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Height">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Align" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Align">
+        <source>alLeft</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Caption" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Caption">
+        <source>'Я больше так не буду, честно!'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Font.Charset" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319097</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Font.Color" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Font.Height" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Font.Name" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Font.Style" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.ModalResult" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.ModalResult">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.ParentFont" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.TabOrder" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Visible" resname="O:NoSelectFile_ErrorForm.O:Panel1.O:ok3.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.Left" resname="O:NoSelectFile_ErrorForm.O:Panel2.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.Top" resname="O:NoSelectFile_ErrorForm.O:Panel2.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.Width" resname="O:NoSelectFile_ErrorForm.O:Panel2.Width">
+        <source>99</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.Height" resname="O:NoSelectFile_ErrorForm.O:Panel2.Height">
+        <source>104</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319213</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.Align" resname="O:NoSelectFile_ErrorForm.O:Panel2.Align">
+        <source>alLeft</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.BevelOuter" resname="O:NoSelectFile_ErrorForm.O:Panel2.BevelOuter">
+        <source>bvNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.TabOrder" resname="O:NoSelectFile_ErrorForm.O:Panel2.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Left" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Left">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Top" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Width" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Height" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Height">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Brush.Color" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Brush.Color">
+        <source>clYellow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Pen.Style" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Pen.Style">
+        <source>psInsideFrame</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Pen.Width" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Pen.Width">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Shape" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Shape1.Shape">
+        <source>stEllipse</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TShape</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Left" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Left">
+        <source>36</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319329</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Top" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Top">
+        <source>18</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319444</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Width" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Width">
+        <source>14</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319444</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Height" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Height">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319444</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Caption" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Caption">
+        <source>'!'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319444</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Font.Charset" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319444</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Font.Color" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319444</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Font.Height" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Font.Height">
+        <source>-43</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319444</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Font.Name" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Font.Name">
+        <source>'Arial Black'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319444</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Font.Style" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319444</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.ParentFont" resname="O:NoSelectFile_ErrorForm.O:Panel2.O:Label2.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8968319444</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

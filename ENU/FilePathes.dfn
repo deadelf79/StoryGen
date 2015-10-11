@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Users\user\Documents\RAD Studio\Projects\Генератор сюжета\FilePathes.dfm" source-language="ru-RU" target-language="en-US" datatype="delphiform" tool="ETM v10.0" ts="C:\Users\user\Documents\RAD Studio\Projects\Генератор сюжета\FilePathes.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">41755.9262962963</prop>
+        <prop prop-type="OrigDateTime">41755.9055324074</prop>
+        <prop prop-type="XlatDateTime">41748.5340277778</prop>
+        <prop prop-type="Translated">37</prop>
+        <prop prop-type="UnTranslated">2</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:FilePathAssociations.Left" resname="O:FilePathAssociations.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TFilePathAssociations</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.Top" resname="O:FilePathAssociations.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TFilePathAssociations</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.Caption" resname="O:FilePathAssociations.Caption">
+        <source>'Ассоциирование путей и файлов'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TFilePathAssociations</prop><prop prop-type="Localize">1</prop></prop-group>
+      <alt-trans>  <source>'FilePathAssociations'</source>
+          <target>'FilePathAssociations'</target>
+          <prop-group name="ITEFieldProp">
+          <prop prop-type="Modified">41755.7596175</prop></prop-group>
+        </alt-trans></trans-unit>
+      <trans-unit id="O:FilePathAssociations.ClientHeight" resname="O:FilePathAssociations.ClientHeight">
+        <source>301</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TFilePathAssociations</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.ClientWidth" resname="O:FilePathAssociations.ClientWidth">
+        <source>437</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TFilePathAssociations</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.Color" resname="O:FilePathAssociations.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TFilePathAssociations</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.Font.Charset" resname="O:FilePathAssociations.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TFilePathAssociations</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.Font.Color" resname="O:FilePathAssociations.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TFilePathAssociations</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.Font.Height" resname="O:FilePathAssociations.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TFilePathAssociations</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.Font.Name" resname="O:FilePathAssociations.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TFilePathAssociations</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.Font.Style" resname="O:FilePathAssociations.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TFilePathAssociations</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.OldCreateOrder" resname="O:FilePathAssociations.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TFilePathAssociations</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.PixelsPerInch" resname="O:FilePathAssociations.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TFilePathAssociations</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.TextHeight" resname="O:FilePathAssociations.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TFilePathAssociations</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:Label1.Left" resname="O:FilePathAssociations.O:Label1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:Label1.Top" resname="O:FilePathAssociations.O:Label1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:Label1.Width" resname="O:FilePathAssociations.O:Label1.Width">
+        <source>437</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:Label1.Height" resname="O:FilePathAssociations.O:Label1.Height">
+        <source>51</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:Label1.Align" resname="O:FilePathAssociations.O:Label1.Align">
+        <source>alTop</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:Label1.Caption" resname="O:FilePathAssociations.O:Label1.Caption">
+        <source>'Данная форма никогда не будет показана пользователю! Здесь расположены списки со всеми вариантами событий по всем жанрам.'</source>
+        <target>'These form never show to user and uses for debug.'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966430903</prop><prop prop-type="Status">1</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:Label1.Font.Charset" resname="O:FilePathAssociations.O:Label1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:Label1.Font.Color" resname="O:FilePathAssociations.O:Label1.Font.Color">
+        <source>clHotLight</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:Label1.Font.Height" resname="O:FilePathAssociations.O:Label1.Font.Height">
+        <source>-14</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:Label1.Font.Name" resname="O:FilePathAssociations.O:Label1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:Label1.Font.Style" resname="O:FilePathAssociations.O:Label1.Font.Style">
+        <source>[fsBold]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:Label1.ParentFont" resname="O:FilePathAssociations.O:Label1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:Label1.WordWrap" resname="O:FilePathAssociations.O:Label1.WordWrap">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:Label1.ExplicitWidth" resname="O:FilePathAssociations.O:Label1.ExplicitWidth">
+        <source>432</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      <alt-trans>  <source>454</source>
+          <target>454</target>
+          <prop-group name="ITEFieldProp">
+          <prop prop-type="Modified">41755.759634838</prop></prop-group>
+        </alt-trans></trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:keys.Left" resname="O:FilePathAssociations.O:keys.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:keys.Top" resname="O:FilePathAssociations.O:keys.Top">
+        <source>51</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:keys.Width" resname="O:FilePathAssociations.O:keys.Width">
+        <source>437</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:keys.Height" resname="O:FilePathAssociations.O:keys.Height">
+        <source>250</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:keys.Align" resname="O:FilePathAssociations.O:keys.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:keys.KeyOptions" resname="O:FilePathAssociations.O:keys.KeyOptions">
+        <source>[keyEdit, keyAdd]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:keys.TabOrder" resname="O:FilePathAssociations.O:keys.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:keys.TitleCaptions.Strings[0]" resname="O:FilePathAssociations.O:keys.TitleCaptions.Strings[0]">
+        <source>'Имя файла'</source>
+        <target>'File name'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:keys.TitleCaptions.Strings[1]" resname="O:FilePathAssociations.O:keys.TitleCaptions.Strings[1]">
+        <source>'Полный путь'</source>
+        <target>'Absolute path to file'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431018</prop><prop prop-type="Status">1</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:keys.ColWidths[0]" resname="O:FilePathAssociations.O:keys.ColWidths[0]">
+        <source>112</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431134</prop><prop prop-type="Status">1</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FilePathAssociations.O:keys.ColWidths[1]" resname="O:FilePathAssociations.O:keys.ColWidths[1]">
+        <source>319</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41755.8966431134</prop><prop prop-type="Status">1</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TValueListEditor</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
